@@ -5,7 +5,6 @@
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-# 💳 Credit Card Fraud Detection System
 
 A Machine Learning web application that detects fraudulent credit card transactions using a *Random Forest Classifier. The application is built with **Python* and *Streamlit*, allowing users to test transactions using random samples or manually entered values.
 
